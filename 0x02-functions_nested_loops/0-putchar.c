@@ -1,20 +1,20 @@
 #include "main.h"
-
 /**
- * main - print _putchar
- * is compiled by kingd
- * Return: 0
+ * main - main function
+ * _putchar: print the alphabets putchar
+ * Return: always 0
  */
+
 int main(void)
 {
-_putchar('');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
-return (0);
+	_putchar('-');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
